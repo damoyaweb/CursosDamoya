@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.article {
+  display: inline-block;
+  margin: 10%;
+}
+.title{
+    text-align: center;
+    border: 1px black solid;
+    border-radius: 5px;
+    background-color: brown;
+    position: relative;
+    top: 15px;
+    padding: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+}
+.content {
+    text-align: center;
+    background-color: #c2c2c2;
+    border: 1px black solid;
+    border-radius: 5px;
+    padding: 40px;
+}
+p {
+    text-align: center;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

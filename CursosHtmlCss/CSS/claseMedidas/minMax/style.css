@@ -3,18 +3,16 @@
   margin: 0;
   padding: 0;
 }
-
 main {
   width: 100vw;
   height: 100vh;
-  background-color: purple;
+  background-color: blueviolet;
 }
-
 section {
-  width: 100%;
+  width: 80%;
   min-width: 320px;
   max-width: 500px;
-  height: 850px;
-  background-color: red;
+  min-height: 500px;
   margin: 0 auto;
+  background-color: brown;
 }
